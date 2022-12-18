@@ -24,7 +24,3 @@ For testing I recommend using these interpreters:
 
 - [https://mitxela.com/other/brainfuck](https://mitxela.com/other/brainfuck)
 - [http://www.bf.doleczek.pl](http://www.bf.doleczek.pl)
-
-Since these interactive interpreters are quite slow I might try to program one myself in the future.
-
-# 
